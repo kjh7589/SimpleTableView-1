@@ -3,7 +3,7 @@
 //  sectionTableView
 //
 //  Created by D7703_26 on 2018. 5. 8..
-//  Copyright © 2018년 조영진. All rights reserved.
+//  Copyright © 2018년 김재현. All rights reserved.
 //
 
 import UIKit
